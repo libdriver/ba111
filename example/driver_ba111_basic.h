@@ -90,7 +90,7 @@ uint8_t ba111_basic_deinit(void);
  *             - 1 read failed
  * @note       none
  */
-uint8_t ba111_basic_read( uint16_t *tds_ppm, float *temperature_deg);
+uint8_t ba111_basic_read(uint16_t *tds_ppm, float *temperature_deg);
 
 /**
  * @brief  basic example baseline calibration
