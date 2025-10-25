@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['supply_5fvoltage_5fmax_82',['SUPPLY_VOLTAGE_MAX',['../driver__ba111_8c.html#a68eba8b601afe11f1b871d944976c035',1,'driver_ba111.c']]],
-  ['supply_5fvoltage_5fmax_5fv_83',['supply_voltage_max_v',['../structba111__info__s.html#a3d2b12bcac7a85ea8646bff9debe8660',1,'ba111_info_s']]],
-  ['supply_5fvoltage_5fmin_84',['SUPPLY_VOLTAGE_MIN',['../driver__ba111_8c.html#aac8d8cbd899667d609787ef4cf37054d',1,'driver_ba111.c']]],
-  ['supply_5fvoltage_5fmin_5fv_85',['supply_voltage_min_v',['../structba111__info__s.html#ad8bde6ddadaf43d951e62f3befb9d35a',1,'ba111_info_s']]]
+  ['last_5fstatus_0',['last_status',['../structba111__handle__s.html#a3f86cefc7e8533e8af2e51e5b62de972',1,'ba111_handle_s']]],
+  ['libdriver_20ba111_1',['LibDriver BA111',['../index.html',1,'']]],
+  ['link_20driver_20function_2',['ba111 link driver function',['../group__ba111__link__driver.html',1,'']]]
 ];

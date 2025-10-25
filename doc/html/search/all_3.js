@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['inited_73',['inited',['../structba111__handle__s.html#a19bedf28d2b9748f6a62d9ae93f4e68f',1,'ba111_handle_s']]],
-  ['interface_74',['interface',['../structba111__info__s.html#aebaa6c28dd4f2c3dc27566fcb910fd28',1,'ba111_info_s']]]
+  ['example_20driver_20function_0',['ba111 example driver function',['../group__ba111__example__driver.html',1,'']]],
+  ['extern_20driver_20function_1',['ba111 extern driver function',['../group__ba111__extern__driver.html',1,'']]]
 ];
