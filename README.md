@@ -10,7 +10,7 @@
 
 A dedicated chip suitable for detecting total dissolved solids (TDS) and water temperature in water quality, which integrates high-precision oscillation circuits, analog-to-digital conversion circuits, and floating-point arithmetic units. Adopting patented conductivity TDS conversion algorithm and temperature correction algorithm (Atombit) ®）， Quickly detect water quality TDS and achieve automatic temperature correction over a wide temperature range, reducing measurement errors caused by TDS values changing with temperature. Suitable for water quality testing of domestic water.
 
-LibDriver BA111 is a full-featured driver of BA111 launched by LibDriver.It provides the function of TDS reading, temperature reading and other functions. LibDriver is MISRA compliant.
+LibDriver BA111 is a full-featured driver for BA111, launched by LibDriver.It provides TDS reading, temperature reading and additional features. LibDriver is MISRA compliant.
 
 ### Table of Contents
 
