@@ -133,7 +133,7 @@ static uint8_t a_ba111_parse_frame(ba111_handle_t *handle, uint8_t is_data, uint
             
             return 1;                                                          /* return error */
         }
-        *data = ((uint32_t)input[1] << 24) | ((uint32_t)input[2] << 26) | 
+        *data = ((uint32_t)input[1] << 24) | ((uint32_t)input[2] << 16) | 
                 ((uint32_t)input[3] << 8) | ((uint32_t)input[4] << 0);         /* get data */
     }
     
